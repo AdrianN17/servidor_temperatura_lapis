@@ -1,0 +1,38 @@
+2021/07/14 09:19:25 [alert] 97#97: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:16
+2021/07/14 12:31:52 [alert] 10213#10213: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:16
+2021/07/16 12:23:51 [alert] 33#33: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:16
+2021/07/16 12:27:10 [alert] 54#54: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:16
+2021/07/16 12:31:25 [alert] 74#74: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:16
+2021/07/16 12:31:25 [emerg] 74#74: "location" directive is not allowed here in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:35
+2021/07/16 12:31:45 [alert] 93#93: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:16
+2021/07/16 12:31:45 [emerg] 93#93: "location" directive is not allowed here in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:35
+2021/07/16 12:32:05 [alert] 112#112: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:16
+2021/07/16 12:32:05 [emerg] 112#112: unknown "_url" variable
+2021/07/16 12:32:08 [alert] 131#131: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:16
+2021/07/16 12:32:08 [emerg] 131#131: unknown "_url" variable
+2021/07/16 12:33:01 [emerg] 150#150: "set" directive is not allowed here in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:9
+2021/07/16 12:33:09 [emerg] 169#169: "set" directive is not allowed here in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:9
+2021/07/16 12:33:13 [alert] 188#188: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:18
+2021/07/16 12:33:13 [emerg] 188#188: unknown "_url" variable
+2021/07/16 12:33:15 [alert] 207#207: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:18
+2021/07/16 12:33:15 [emerg] 207#207: unknown "_url" variable
+2021/07/16 12:33:27 [alert] 226#226: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:18
+2021/07/16 12:33:27 [emerg] 226#226: unknown "_url" variable
+2021/07/16 12:35:30 [alert] 245#245: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:16
+2021/07/16 12:36:25 [alert] 265#265: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:16
+2021/07/16 12:37:59 [alert] 285#285: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:16
+2021/07/16 12:37:59 [emerg] 285#285: unknown "_url" variable
+2021/07/16 12:38:06 [alert] 304#304: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:16
+2021/07/16 12:38:06 [emerg] 304#304: unknown "_url" variable
+2021/07/16 12:39:49 [alert] 323#323: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:16
+2021/07/16 12:47:45 [alert] 343#343: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:16
+2021/07/16 12:53:26 [alert] 363#363: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:16
+2021/07/16 13:24:02 [alert] 383#383: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:16
+2021/07/16 13:32:57 [alert] 403#403: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:16
+2021/07/16 13:48:55 [alert] 423#423: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:16
+2021/07/16 13:55:41 [alert] 443#443: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:16
+2021/07/16 14:01:48 [alert] 463#463: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:16
+2021/07/16 14:11:43 [alert] 483#483: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:16
+2021/07/16 14:13:58 [alert] 503#503: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:16
+2021/07/16 14:14:35 [alert] 523#523: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:16
+2021/07/16 14:15:11 [alert] 543#543: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:16
