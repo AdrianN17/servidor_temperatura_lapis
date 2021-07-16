@@ -36,3 +36,4 @@
 2021/07/16 14:13:58 [alert] 503#503: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:16
 2021/07/16 14:14:35 [alert] 523#523: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:16
 2021/07/16 14:15:11 [alert] 543#543: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/lapisprueba/nginx.conf.compiled:16
+2021/07/16 14:51:08 [alert] 32#32: lua_code_cache is off; this will hurt performance in /mnt/d/proyectos/servidor_temperatura_lapis/nginx.conf.compiled:16

@@ -11,6 +11,8 @@ end)
 
 app:get("temperatura","/temperatura", function(self)
 
+  self.title = "temperatura"
+
   local body, status_code, headers = http.simple({
     url = "http://192.168.0.25",
     method = "POST",
@@ -21,6 +23,8 @@ app:get("temperatura","/temperatura", function(self)
 
   self.time = 0
   self.temVal = {}
+
+  
 
   if status_code == 200 then
 
@@ -36,7 +40,7 @@ app:get("temperatura","/temperatura", function(self)
     self.time  = result
   end
 
-  return { render = true }
+  return { render = true}
 
 end)
 
